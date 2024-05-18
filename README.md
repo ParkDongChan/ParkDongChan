@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Park Dong-Chan, close to full-stack developer :) 👨‍💻</div>  
+### <div align="center">I'm Park Dong-Chan :) 👨‍💻</div>  
   
 
 - 🌱 I major in computer engineering in SKKU  
