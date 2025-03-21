@@ -7,12 +7,6 @@
   
 
 - 🌱 I major in computer engineering in SKKU  
-  
-
-- 😉 Now I am studying Typescript, Redis. I am interested in Deep-learning :)  
-  
-
-<br/>  
 
 
 ## My Skill Set  
